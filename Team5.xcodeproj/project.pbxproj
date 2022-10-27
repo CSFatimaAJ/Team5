@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C2B44BE290A8AD1004966F5 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C2B44BD290A8AD1004966F5 /* SignUp.swift */; };
 		CB28A68E290A780200228D60 /* Team5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB28A68D290A780200228D60 /* Team5App.swift */; };
 		CB28A690290A780200228D60 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB28A68F290A780200228D60 /* ContentView.swift */; };
 		CB28A692290A780400228D60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB28A691290A780400228D60 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C2B44BD290A8AD1004966F5 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
 		CB28A68A290A780200228D60 /* Team5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Team5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB28A68D290A780200228D60 /* Team5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team5App.swift; sourceTree = "<group>"; };
 		CB28A68F290A780200228D60 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				CB28A68D290A780200228D60 /* Team5App.swift */,
 				CB28A68F290A780200228D60 /* ContentView.swift */,
+				1C2B44BD290A8AD1004966F5 /* SignUp.swift */,
 				CB28A691290A780400228D60 /* Assets.xcassets */,
 				CB28A693290A780400228D60 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB28A690290A780200228D60 /* ContentView.swift in Sources */,
+				1C2B44BE290A8AD1004966F5 /* SignUp.swift in Sources */,
 				CB28A68E290A780200228D60 /* Team5App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
